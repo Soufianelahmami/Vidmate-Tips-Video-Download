@@ -43,64 +43,64 @@
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
-    "onesignal_id": "xxx",
+    "onesignal_id": "b6f2750e-4100-43d8-bbb5-f75e353679e6",
 
   "guides": [
 	{
-	 "image": "xxxx",
-	 "title": "00",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjV6TF.webp",
+	 "title": "Vidmate Tips Video Download 1",
+	 "text": "Create a guide on how to download videos from popular platforms like YouTube, Facebook, Instagram, and more using Vidmate. Explain the step-by-step process.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 1
 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "11",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjVgkP.webp",
+	 "title": "Vidmate Tips Video Download 2",
+	 "text": "Show users how to select the best video quality when downloading videos to ensure the best viewing experience.",
+	 "text_two": "",
 
 	 "isLocked": true,
 	 "id": 2
 	 
 	},
 	{
-	 "image": "xxxx",
-	 "title": "22",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	 "image": "https://iili.io/JKjVkEx.webp",
+	 "title": "Vidmate Tips Video Download 3",
+	 "text": "Demonstrate how to download multiple videos at once, saving time and effort.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 3
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "33",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjVUYB.webp",
+	 "title": "Vidmate Tips Video Download 4",
+	 "text": "Explain how to set up scheduled downloads for videos to automatically download at specific times or on a regular basis.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 4
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "44",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjVvrQ.webp",
+	 "title": "Vidmate Tips Video Download 5",
+	 "text": "Discuss how to convert downloaded videos into different formats suitable for various devices.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 5
 
 	},
 	{
-	"image": "xxxx",
-	 "title": "55",
-	 "text": "xxxx",
-	 "text_two": "xxxx",
+	"image": "https://iili.io/JKjVS2V.webp",
+	 "title": "Vidmate Tips Video Download 6",
+	 "text": "Share tips on how to download audio files and music from popular platforms like SoundCloud and Spotify.",
+	 "text_two": "",
 
 	 "isLocked": false,
 	 "id": 6
